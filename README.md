@@ -1,4 +1,4 @@
-# 🌪️ [Check GIT Repositories](https://mateus-stahelin.github.io/check-git-repos/)
+# 🌪️ Check GIT Repositories
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,8 +21,6 @@
   - Eventos
   - Estilização (styled-components)
   - Lidar com erros e experiência do usuário
-- Acesse o projeto final [aqui](https://mateus-stahelin.github.io/validador-cpf/)
-
 
 ## 💻 Recursos e Tecnologias
 
