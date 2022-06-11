@@ -27,8 +27,10 @@ function App(props) {
   
   return (
   <S.HomeContainer>
-    <S.Content>
-      <S.Input className='usuarioInput' placeholder='Usuário' value={ usuario } onChange={e => setUsuario(e.target.value) } />
+      <S.h1>Checar Repositórios no GitHub</S.h1>
+      <S.h3>Insira o nome do usuário no GitHub:</S.h3>
+    <S.Content>  
+      <S.Input className='usuarioInput' placeholder='Usuário GitHub' value={ usuario } onChange={e => setUsuario(e.target.value) } />
       <S.Button type='button' onClick={handlePesquisa}>Pesquisar</S.Button>
     </S.Content>
     { erro ? <S.ErrorMsg>Ocorreu um erro! Tente novamente. </S.ErrorMsg> : '' }

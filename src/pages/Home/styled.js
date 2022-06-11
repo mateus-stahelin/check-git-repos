@@ -49,3 +49,23 @@ export const ErrorMsg = styled.span`
   font-weight: 600;
   margin-top: 1rem;
 `
+
+export const h1 = styled.h1`
+  font-size: 3.5rem;
+  font-weight: 600;
+  margin-bottom: 3rem;
+  font-family: 'Roboto', sans-serif;
+  align-content: center;
+  justify-content: center;
+  text-shadow: 0 0 8px #000;
+  border: 4px solid #000;
+`;
+
+export const h3 = styled.h3`
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  font-family: 'Roboto', sans-serif;
+  align-content: center;
+  justify-content: center;
+`;
