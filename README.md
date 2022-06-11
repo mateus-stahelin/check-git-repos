@@ -1,9 +1,10 @@
-# 🌪️ Check GIT Repositories
+# 🌪️ [Check GIT Repositories](https://mscheckgitrepos.netlify.app/)
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-recursos-e-tecnologias">Recursos e Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-obs">OBS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-app">App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -30,6 +31,9 @@
 - [Create React App](https://github.com/facebook/create-react-app).
 - [Gama Academy](https://app.gama.academy/)
 - [Hiring Coders](https://www.hiringcoders.com.br/)
+- [VS Code](https://code.visualstudio.com/)
+- [GitHub](https://github.com/)
+- [Netlify](https://www.netlify.com)
 
 ## 📺 OBS
 
@@ -44,6 +48,10 @@ npm install && npm start
 ```
 
 - Após executar os comandos acima, clique [aqui](http://localhost:3000) para acessar a aplicação
+
+## 📶 App
+
+* Acesse o projeto final [neste endereço](https://mscheckgitrepos.netlify.app/).
 
 ## 🦾 Autor
 
